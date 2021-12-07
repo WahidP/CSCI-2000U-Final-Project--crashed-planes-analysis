@@ -11,7 +11,7 @@ Have you ever felt anxious before getting on a plane? Or have you ever worried a
 
 ## Discussion
 
-![](images/6.jpg)
+![](Images/6.jpg)
 
 
 
