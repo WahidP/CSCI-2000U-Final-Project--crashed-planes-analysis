@@ -25,6 +25,7 @@ There are many other planes crashes that killed hundreds of people on the ground
 Secondly, before analysing the data, we believed today’s world airplanes safety would disrupt Fatalities, but we still live-in dark ages for improving the safety and make better and sufficient airplanes. After we collected all the data, we saw that more than half aborded people died from the crash which is super disappointing and hurtful.
 
 ![](Images/4.jpg)
+![](Images/10.jpg)
 
 
 
