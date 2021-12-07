@@ -27,6 +27,9 @@ Secondly, before analysing the data, we believed today’s world airplanes safet
 ![](Images/4.jpg)
 ![](Images/10.jpg)
 
+### Observations of fatalities per year chart:   
+As you can see from the graph our overall boarded passengers on the crashed planes was 62589, and the fatalities 42119 which means that over 67% of people lost their lives on these doomed aircrafts. This is a number we are hoping decreases with time and more safety percautions
+
 Last but not least, we also figured that we know less then what we should know about airplanes and how many crashes we have each year. Most importantly, people seem to care less on how each year the crashes going up. We need to have a system that would properly examine the failing for the planes and try to come up with a better and more secure solutions that would involve less people’s deaths and destruction on the ground.
 
 ![](Images/6.jpg)
