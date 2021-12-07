@@ -37,6 +37,8 @@ Last but not least, we also figured that we know less then what we should know a
 ### Observations on counts of accidents per year chart:
 Since the aviation industry is always evolving, we would have anticipated and expected the number of accidents to plummet since we improved in other areas of technology so drastically, although overall trend is going down there are some years in the early 2000s where you can clearly see that the number of accidents are almost the same as some years in the 1980s.
 
+In the 1980s the spike in accident really concerend us, but after doing further research we can make a hypothesis that since more people were flying more oftern, the number of accidents increased. More people flying = more flights = more potential plane crashes.
+
 There ware many other instructing facts that did not only shocked us but awarded us why it is super important to pay more attention to the airplane’s safety and manufacturing and probably in future trying to prevent people from dying or even fever accidents.
 
 ## Conclusion
