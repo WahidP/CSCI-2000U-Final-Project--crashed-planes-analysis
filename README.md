@@ -27,17 +27,13 @@ Secondly, before analysing the data, we believed today’s world airplanes safet
 ![](Images/4.jpg)
 ![](Images/10.jpg)
 
+Last but not least, we also figured that we know less then what we should know about airplanes and how many crashes we have each year. Most importantly, people seem to care less on how each year the crashes going up. We need to have a system that would properly examine the failing for the planes and try to come up with a better and more secure solutions that would involve less people’s deaths and destruction on the ground.
 
+![](Images/6.jpg)
 
-
-
-
-
-
-
-
-
+There ware many other instructing facts that did not only shocked us but awarded us why it is super important to pay more attention to the airplane’s safety and manufacturing and probably in future trying to prevent people from dying or even fever accidents.
 
 ## Conclusion
 
-your writing goes here...
+When it comes to death and destruction, we need to be as safer as we can bee and ready for worst situation. Thousands of boarded passengers’ death, one plane killed more then two thousand people on ground and each year the number of crashes up rising, is clearly a message that something isn’t right, and it need to be fixed as soon as possible. Human lives are precious, and we can not afford to lose hundreds and thousands of people each year. 
+By analysing/studying our dataset we rise our Voise and tell the world to read our dataset and go for safer airplanes. We ask the manufacturer to unstoppably work for the safety of the people and help them bring their love once safe and happy to their families.
