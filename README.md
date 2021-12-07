@@ -15,12 +15,14 @@ From this dataset we answer some of the following questions: Overall aboard and 
 
 ## Discussion
 
-![](Images/6.jpg)
+Through out the process of analysing the dataset Large_Passenger_Plane_Crashes_1933_to_2009 We found many interesting facts that is not only shocking, but it can help you better understand your way in hundreds of different airlines for a saver and better journey. One of the most shocking finding of our dataset was the people dead on the ground. Around in 8/24/01 Boeing 767-223ER airplane on the journey from New York City to New York crash landed and almost killed 2750 people on ground.
+
+![](Images/3.jpg)
 
 
 
 
 
-##Conclusion
+## Conclusion
 
 your writing goes here...
